@@ -10,7 +10,7 @@
 Create a system that is able to bridge between Old System (Using USB Interface) and New System (Using HTTPS API Interface).
 
 # GitHub Repository Link:
-https://github.com/{YOUR_USERNAME}/cs-665-assignment-{ASSIGNMENT_NUMBER}
+https://github.com/AndreArsyan/Assignment4
 
 # Implementation Description
 ![UML Diagram](UML.png)
